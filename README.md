@@ -7,3 +7,4 @@ Here goes my notes about git class
 - Constants and variables
 - Collecctions
 - Data Types
+- git
