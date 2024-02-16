@@ -1,6 +1,6 @@
-# Class git
+# Class Notes
 
-Here goes my notes about git class
+Here goes my notes about apps class
 
 ## First Module
 - MacOS
