@@ -1,10 +1,11 @@
 # Class Notes
 
-Here goes my notes and exercises about apps class
+Here goes my notes and exercises about iOS apps class
 
 ## First Module
 - MacOS
 - Constants and variables
 - Collecctions
 - Data Types
-- git
+- Git
+- Class and Structures
