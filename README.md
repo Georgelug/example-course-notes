@@ -1,6 +1,6 @@
 # Class Notes
 
-Here goes my notes about apps class
+Here goes my notes and exercises about apps class
 
 ## First Module
 - MacOS
