@@ -7,4 +7,5 @@ Here goes my notes about apps class
 - Constants and variables
 - Collecctions
 - Data Types
-- git
+- Git
+- Class and Structures
