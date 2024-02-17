@@ -9,3 +9,4 @@ Here goes my notes and exercises about iOS apps class
 - Data Types
 - Git
 - Class and Structures
+- Functions and Methods
